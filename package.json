@@ -19,7 +19,7 @@
     "string-to-stream": "^3.0.1"
   },
   "devDependencies": {
-    "@types/node": "^18.0.0",
+    "@types/node": "^20.1.0",
     "@typescript-eslint/eslint-plugin": "^5.9.0",
     "@typescript-eslint/parser": "^5.9.0",
     "adm-zip": "^0.5.9",
